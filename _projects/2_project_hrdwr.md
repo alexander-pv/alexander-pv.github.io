@@ -6,7 +6,6 @@ img: /assets/img/projects/hardware/zyxel/zyxel-6.png
 importance: 1
 category: hardware
 related_publications: false
-giscus_comments: true
 ---
 
 

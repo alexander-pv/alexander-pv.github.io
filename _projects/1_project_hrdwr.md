@@ -6,7 +6,6 @@ img: /assets/img/projects/hardware/egpu/egpu-1.jpg
 importance: 1
 category: hardware
 related_publications: false
-giscus_comments: true
 ---
 
 Today it is challenging to make experiments locally with your own resources when you work with language modelling.
