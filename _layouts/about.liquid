@@ -12,6 +12,21 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+
+    <header class="post-header">
+    <h2 class="post-title">
+
+      <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+      >CV</i></a>
+
+    </h2>
+
+
+
+
   </header>
 
   <article>
