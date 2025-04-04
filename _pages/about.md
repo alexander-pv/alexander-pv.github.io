@@ -13,7 +13,7 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-cv_pdf: cv_nov2024.pdf
+cv_pdf: cv_apr2025.pdf
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,7 +33,7 @@ I was fortunate to came into the biology research (mainly taxonomy in entomology
 in research work in the intersection of deep learning and species identification. 
 
 I am interested in the **AI4Science** as well as in **AI4Industry**, and, in particular,
-interpretable machine learning, language models reasoning (in combinatorial tasks, COPs, in particular), and multimodal learning.  I aim to learn to make better research and to write valuable code.
+interpretable machine learning, language models reasoning, and multimodal learning.  I aim to learn to make better research and to write valuable code.
 
 
 *_Although Aleksandr is my official transcript, I use Alexander as well_.
