@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 
 ### Aleksandr Popkov 
 
-I am a Data Scientist at GazpromNeft and a Research Associate at 
-Zoological Institute of Russian Academy of Sciences in  Saint Petersburg. 
+I am a Data Scientist and a Research Associate at 
+Zoological Institute of Russian Academy of Sciences in Saint Petersburg. 
 
 My _alma mater_ is Saint Petersburg State University where I graduated with a specialization of mathematical and statistical
 methods in Economics advised by [Dr. Sci. Nikolai Hovanov](https://www.researchgate.net/profile/Nikolai-Hovanov) and gained 
