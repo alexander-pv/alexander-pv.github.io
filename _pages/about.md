@@ -29,7 +29,7 @@ My _alma mater_ is Saint Petersburg State University where I graduated with a sp
 methods in Economics advised by [Dr. Sci. Nikolai Hovanov](https://www.researchgate.net/profile/Nikolai-Hovanov) and gained 
 MSc in Business Informatics with a focus on constructing statistical models to bring value. 
 
-I was also fortunate to work in the field of biology (mainly taxonomy in entomology) thanks to [Alexey Solodovnikov](https://www.researchgate.net/profile/Alexey-Solodovnikov) from 
+I was also fortunate to work in the field of biology (mainly taxonomy in entomology) thanks to [Dr. Alexey Solodovnikov](https://www.researchgate.net/profile/Alexey-Solodovnikov) from 
 the University of Copenhagen and to immerse myself in research work in the intersection of deep learning and species identification. 
 
 I am interested in the **AI4Science** as well as in **AI4Industry**, and aim to learn to make better research and to write valuable code.
