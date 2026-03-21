@@ -13,7 +13,7 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-cv_pdf: cv_oct2025.pdf
+cv_pdf: cv_march2026.pdf
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 
 ### Aleksandr Popkov 
 
-I am a Data Scientist and a Research Associate at 
-Zoological Institute of Russian Academy of Sciences in Saint Petersburg. 
+I am currently working as a Data Scientist at Magnit Tech
+and developing NLP-backed systems and LLM agent architectures for the retail industry. 
 
 My _alma mater_ is Saint Petersburg State University where I graduated with a specialization of mathematical and statistical
 methods in Economics advised by [Dr. Sci. Nikolai Hovanov](https://www.researchgate.net/profile/Nikolai-Hovanov) and gained 
